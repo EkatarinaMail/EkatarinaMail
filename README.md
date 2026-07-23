@@ -9,7 +9,7 @@ practical data analysis skills.
 - 📊 Interested in housing data, performance, compliance and systems
 - 🔍 Focused on data quality, process improvement and reliable reporting
 - 🎓 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- 📍 Based in London, UK
+- 📍 Based in West London, UK
 
 ## Tools
 
