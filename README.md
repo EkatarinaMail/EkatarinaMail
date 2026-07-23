@@ -28,8 +28,8 @@ practical data analysis skills.
 
 ### Connect with me:
 
-<a href="(https://www.linkedin.com/in/katerina-f/)">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+<a href="https://www.linkedin.com/in/katerina-f/">
+  <img src="https://cdn.simpleicons.org/linkedin/000000"
        alt="LinkedIn"
        width="28"
        height="28">
