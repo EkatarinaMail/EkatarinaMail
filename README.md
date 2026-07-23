@@ -26,12 +26,13 @@ practical data analysis skills.
 - **Housing Data Cleaning ETL**  Power Query
 - **Housing Data Modelling & Metrics**  Power BI and DAX
 
+
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/katerina-f/">
-  <img src="https://cdn.simpleicons.org/linkedin/000000"
+  <img src="[./linkedin.png](https://github.com/user-attachments/assets/efdf857b-3002-4c55-b6f9-02f86c842c3f)"
        alt="LinkedIn"
        width="28"
        height="28">
 </a>
-
