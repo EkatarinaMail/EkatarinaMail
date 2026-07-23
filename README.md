@@ -18,7 +18,7 @@ practical data analysis skills.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-2E75B6?style=flat-square)
 ![DAX](https://img.shields.io/badge/DAX-555555?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E88E5?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-7B61A8?style=flat-square)
 
 ## Featured Projects
 
