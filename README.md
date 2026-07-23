@@ -30,9 +30,10 @@ practical data analysis skills.
 
 ### Connect with me:
 
+
 <a href="https://www.linkedin.com/in/katerina-f/">
-  <img src="[./linkedin.png](https://github.com/user-attachments/assets/efdf857b-3002-4c55-b6f9-02f86c842c3f)"
-       alt="LinkedIn"
-       width="28"
-       height="28">
+  <img
+    src="https://github.com/user-attachments/assets/efdf857b-3002-4c55-b6f9-02f86c842c3f"
+    alt="LinkedIn"
+    width="28">
 </a>
