@@ -35,5 +35,5 @@ practical data analysis skills.
   <img
     src="https://github.com/user-attachments/assets/efdf857b-3002-4c55-b6f9-02f86c842c3f"
     alt="LinkedIn"
-    width="40">
+    width="36">
 </a>
