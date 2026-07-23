@@ -21,10 +21,10 @@ practical data analysis skills.
 
 ## Featured Projects
 
-- **Compliance & Safety Dashboard** — Power BI and SQL Server
-- **Compliance Data Validation Audit** — Excel
-- **Housing Data Cleaning ETL** — Power Query
-- **Housing Data Modelling & Metrics** — Power BI and DAX
+- **Compliance & Safety Dashboard**  Power BI and SQL Server
+- **Compliance Data Validation Audit**  Excel
+- **Housing Data Cleaning ETL**  Power Query
+- **Housing Data Modelling & Metrics**  Power BI and DAX
 
 ### Connect with me:
 
