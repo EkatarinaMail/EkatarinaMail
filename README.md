@@ -9,7 +9,7 @@ practical data analysis skills.
 - 📊 Interested in housing data, performance, compliance and systems
 - 🔍 Focused on data quality, process improvement and reliable reporting
 - 🎓 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- 🏡 Propertymark Level 3 qualifications in Residential Lettings, Property Management and Residential Sales
+- 🏡 Propertymark Level 3 Awards in the Sale of Residential Property and Residential Letting and Property Management
 
 ## Tools
 
