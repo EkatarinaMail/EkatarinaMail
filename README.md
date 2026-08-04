@@ -1,6 +1,6 @@
 # Hi, I'm Katerina 👋
 
-### Housing Data & Performance | Power BI | SQL | Excel
+### Housing Data & Performance | Power BI | Excel
 
 I combine a background in housing operations and property services with
 practical data analysis skills.
